@@ -1,0 +1,4 @@
+baseURL = "http://damian.pecke.tt/"
+languageCode = "en-us"
+title = '''Damian Peckett's Blog'''
+theme = "mini"
