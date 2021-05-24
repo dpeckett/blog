@@ -1,4 +1,4 @@
-baseURL = "http://damian.pecke.tt/"
+baseURL = "https://damian.pecke.tt/"
 languageCode = "en-us"
 title = '''Damian Peckett's Blog'''
 theme = "mini"
@@ -8,6 +8,7 @@ theme = "mini"
 
 [social]
   github = "https://github.com/dpeckett/"
+  linkedin = "https://www.linkedin.com/in/damian-peckett-ba7536a9/"
   
 [params]
   author = "Damian Peckett"
