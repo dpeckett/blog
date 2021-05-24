@@ -4,7 +4,7 @@
 	{{ end }}
 	<a href="{{ "/posts" | relURL }}">{{ with .Site.Params.archive }}{{ . }}{{ else }}Archive{{ end }}</a>
 	<a href="{{ "/tags" | relURL }}">{{ with .Site.Params.tags }}{{ . }}{{ else }}Tags{{ end }}</a>
-	<a href="https://www.iubenda.com/privacy-policy/20925690" class="no-brand iubenda-nostyle iubenda-embed iubenda-noiframe" title="Privacy Policy">Privacy Policy</a>
+	<a href="https://www.iubenda.com/privacy-policy/20925690" class="no-brand iubenda-nostyle iubenda-embed iubenda-noiframe">Privacy Policy</a>
 	<a href="{{ "/legal/imprint" | relURL }}">Imprint</a>
 	
 	{{ range $element := .Site.Params.Links }}
