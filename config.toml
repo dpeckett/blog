@@ -2,6 +2,7 @@ baseURL = "https://damian.pecke.tt/"
 languageCode = "en-us"
 title = '''Damian Peckett's Blog'''
 theme = "mini"
+enableRobotsTXT = true
 
 [permalinks]
   posts = "/posts/:title/"
