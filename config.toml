@@ -14,11 +14,3 @@ enableRobotsTXT = true
 [params]
   author = "Damian Peckett"
   mainSections = ["blog"]
-  
-[[params.links]]
-  path = "/legal/privacy"
-  name = "Privacy Policy"
-  
-[[params.links]]
-  path = "/legal/imprint"
-  name = "Imprint"
