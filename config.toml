@@ -2,3 +2,21 @@ baseURL = "http://damian.pecke.tt/"
 languageCode = "en-us"
 title = '''Damian Peckett's Blog'''
 theme = "mini"
+
+[permalinks]
+  posts = "/posts/:title/"
+
+[social]
+  github = "https://github.com/dpeckett/"
+  
+[params]
+  author = "Damian Peckett"
+  mainSections = ["blog"]
+  
+[[params.links]]
+  path = "/legal/privacy"
+  name = "Privacy Policy"
+  
+[[params.links]]
+  path = "/legal/imprint"
+  name = "Imprint"
