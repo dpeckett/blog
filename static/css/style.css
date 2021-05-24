@@ -502,13 +502,13 @@ nav.navigation a.button {
   color: #bbb;
 }
 
-.contact-form {
+.callback-form {
 	display: flex;
 	flex-flow: column wrap;
 	max-width: 400px;
 }
 
-.contact-form-field {
+.callback-form-field {
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 10px;

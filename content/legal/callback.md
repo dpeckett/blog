@@ -6,4 +6,4 @@ type: legal
 
 For time sensitive legal requests you can request to be called back on your phone. 
 
-{{< contact >}}
+{{< callback >}}
